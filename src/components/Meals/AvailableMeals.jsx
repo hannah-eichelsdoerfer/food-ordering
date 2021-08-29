@@ -5,27 +5,27 @@ import MealItem from './MealItem/MealItem';
 const DUMMY_MEALS = [
   {
     id: 'm1',
-    name: 'Sushi',
-    description: 'Finest fish and veggies',
-    price: 22.99,
+    name: 'Vegan Tofu Poke Bowl',
+    description: 'This bowl features crispy tofu and onions marinated in a delicious ginger-soy sauce and paired with rice, red cabbage, cucumber, and avocado.',
+    price: 10.99,
   },
   {
     id: 'm2',
-    name: 'Schnitzel',
-    description: 'A german specialty!',
-    price: 16.5,
+    name: 'Nacho Avocado Salad',
+    description: 'Healthy with a crunch.',
+    price: 9.5,
   },
   {
     id: 'm3',
-    name: 'Barbecue Burger',
-    description: 'American, raw, meaty',
-    price: 12.99,
+    name: 'Avo on Toast',
+    description: 'Brown bread with smashed avocado, salt, black pepper, and citrus juice, topped of a sunnyside egg',
+    price: 7.99,
   },
   {
     id: 'm4',
-    name: 'Green Bowl',
-    description: 'Healthy...and green...',
-    price: 18.99,
+    name: 'Buddha Bowl',
+    description: 'Healthy with lots of grains and greens 🌱',
+    price: 8.99,
   },
 ];
 
